@@ -1,0 +1,82 @@
+﻿5/26/2017
+Fresh Credit Worries Grip Markets; Banks' Woes Spur Fear Of Reluctance to Lend; Stocks React Sharply - ProQuest
+More like this + Fresh Credit Worries Grip Markets; Banks' Woes Spur Fear Of Reluctance to Lend; Stocks React Sharply
+Serena Ng and Carrick Mollenkamp. Wall Street Journal, Eastern edition; New York, N.Y. [New York, N.Y]02 Nov 2007: A.1.
+THE WALL STREET JOURNAL
+Full text Abstract/Details
+Abstract Translate
+"The situation is now more negative than in the summer," said Pete Nolan, a portfolio manager at Smith Breeden Associates in Chapel Hill, N.C. He said that "in many cases, the fundamentals are catching up" with investors' worst fears.
+"Mortgages are still deteriorating at an accelerating pace, and that's scary," said Karen Weaver, global head of securitization research at Deutsche Bank AG. "We haven't come near a stabilization, and we expect things to get worse as the bulk of resets" of interest rates on adjustable-rate mortgages "have yet to come."
+In October alone, Moody's Investors Service, Fitch Ratings and Standard & Poor's downgraded or put on watch for downgrade more than $100 billion in CDOs and the mortgage securities they contain. In a glimpse of how much banks have at stake, UBS holds more than $20 billion of super-senior tranches of CDOs. They're among the reasons UBS, which reported a third-quarter loss of 830 million Swiss francs ($712.8 million), has warned that its investment bank is likely to face further losses in the current quarter.
+Full text Translate
+The credit-market turmoil that began this summer, instead of settling down, is still simmering.
+The continuing problems are worrying investors, who on Wednesday had pushed up stocks in response to another interest-rate cut from the Federal Reserve. Yesterday they did an about-face on bad news from financial firms whose fates are tied to eroding real-estate-based securities. The Dow Jones Industrial Average fell 362.14, or 2.6%, to 13567.87. The S&P 500 also dropped 2.6%, to 1508.44, while the Nasdaq Composite index declined 2.2% to 2794.83.
+The angst in the financial markets stood in contrast to the views Federal Reserve officials expressed Wednesday. They said their latest rate cut, combined with a more aggressive one in September, should help forestall damage to the broad economy from credit-market turmoil. But the latest market developments raised investor expectations the Fed may ease again.
+Banks and brokerage firms took the brunt of the stock-market selling. Citigroup Inc. fell 7% after an analyst at CIBC World Markets suggested the nation's biggest bank might need to sell assets or lower its dividend to make up for the steep losses it was going to suffer because of weak credit markets.
+After August's turmoil, credit markets had generally stabilized, and stock investors had begun to act as if the problems were over, driving stocks into record territory again. But beginning last week, with the $8.4 billion write-down by Merrill Lynch & Co., a drumbeat of bad news began to send a different message.
+Merrill's write-down, which was larger than expected and led to the departure of its chief executive, was significant in that it included fresh financial information from September. All of the other major Wall Street firms ended their quarters in August, so investors interpreted Merrill's news as a sign that markets had soured that month.
+Swiss bank UBS AG followed with a warning on Monday that the fourth quarter was likely to be weaker than it had projected. Bad news from mortgage and bond insurer Radian Group Inc. and from lender GMAC, which yesterday reported large third-quarter losses, added to worries that problems would persist at least through the end of the year.
+"The situation is now more negative than in the summer," said Pete Nolan, a portfolio manager at Smith Breeden Associates in Chapel Hill, N.C. He said that "in many cases, the fundamentals are catching up" with investors' worst fears.
+The worry is that a huge financial edifice that is built on top of the now-shaky mortgage market could weaken, potentially causing lenders to tighten up on loans and slowing the economy.
+In a recent report, analysts from J.P. Morgan Chase & Co. said they expect bank credit losses on mortgages and complex debt securities to continue well into 2008 as housing prices weaken further. "As bank losses continue, we expect bank lending capacity to be reduced," they said, adding that banks will have to ration credit and are likely to favor lending to corporations over consumers.
+Besides the problems with banks and brokers, there was evidence of more problems in the mortgage market. Mortgage-servicing companies, which collect payments from borrowers, said delinquency and prepayment data were worse than expected.
+"Mortgages are still deteriorating at an accelerating pace, and that's scary," said Karen Weaver, global head of securitization research at Deutsche Bank AG. "We haven't come near a stabilization, and we expect things to get worse as the bulk of resets" of interest rates on adjustable-rate mortgages "have yet to come."
+The percentage of subprime mortgages -- those to home buyers with weak credit -- that were more than 60 days behind in payments topped 20% in August, up from 18.7% in July and 17.1% in June, according to the latest data from First American LoanPerformance.
+Meantime, home prices in many markets have slipped. They were down more than 4% in the month of August from a year ago, as measured by the S&P/Case-Shiller index.
+The weaker prices have prevented some borrowers from refinancing and have reduced the value of the collateral backing mortgage securities.
+http://search.proquest.com.turing.library.northwestern.edu/docview/398988423/1383F95EF2751C24533/3?accountid=14026
+1/3
+5/26/2017
+Fresh Credit Worries Grip Markets; Banks' Woes Spur Fear Of Reluctance to Lend; Stocks React Sharply - ProQuest
+Mark Zandi, an economist at Moody's Economy.com, estimates that of the $2.45 trillion in especially risky mortgages currently outstanding -- including subprimes, interest-only loans, mortgages that exceed Fannie Mae lending limits and others -- as much as a quarter could suffer defaults in the months ahead. Total losses on these mortgages, he estimates, could reach $225 billion. That would hit bondholders hard, since the value of mortgage securities is driven by the performance of underlying mortgages. And it could make such bonds harder to sell in the future.
+Many expect the value of homes to continue to slip as well. Mr. Zandi puts the drop at 10%, from the market's peak in the fourth quarter of 2005 to its projected bottom in the fourth quarter of 2008. Such a decline would wipe out more than $2 trillion in home values. That's less than the $7 trillion in stock wealth wiped out by the tech bust that began in 2000, but still would represent a significant hit to the economy.
+Because mortgages are bundled into securities sold to investors all over the world, the deterioration in mortgages' value is having a wide effect. Many of the more complex securities, known as collateralized debt obligations, or CDOs, are held by banks and brokerage firms. They've been the cause of many of the big losses at those institutions.
+In CDOs, risk is portioned out to different groups of investors. Those willing to take the biggest risks buy securities with the highest potential returns, while investors who want more safety give up some return to get it. Already, the riskier "tranches" of CDOs have sunk dramatically in value. An index that tracks risky subprime bonds has fallen to a record low of 17.4 cents on the dollar, down 50% from August, according to Markit Group.
+That decline, while worrisome, hit investors willing to take risk. But the recent turmoil stems from declines in the market for the safest securities. Rated triple-A, they should be affected by mortgage defaults only in extreme circumstances. An index that tracks triple-A securities is trading at 79 cents on the dollar, down from roughly 95 cents just a month ago.
+At the top are "super-senior tranches." It is a decline in value of these supposedly safe securities that is hurting many banks and brokerage firms. Because banks must value many of their securities holdings at the price at which they could be sold -- called marking to market -- many banks have had to report losses.
+In October alone, Moody's Investors Service, Fitch Ratings and Standard & Poor's downgraded or put on watch for downgrade more than $100 billion in CDOs and the mortgage securities they contain. In a glimpse of how much banks have at stake, UBS holds more than $20 billion of super-senior tranches of CDOs. They're among the reasons UBS, which reported a third-quarter loss of 830 million Swiss francs ($712.8 million), has warned that its investment bank is likely to face further losses in the current quarter.
+"There was some widespread miscalculation when it came to estimating the credit risk and market risk of the super-senior tranches," notes Ralph Daloiso, managing director of structured finance at Natixis, a French banking group.
+Specialized funds known as structured investment vehicles, affiliated with banks and independent managers, invested in the top- rated tranches of CDOs. Banks set up the funds as a way to derive income from securities held off their balance sheets. The SIVs borrowed money from outside investors by issuing short-term and medium-term notes, then used the money to pay for the securities. Now, though, investors' reluctance to lend to SIVs has raised concerns that the funds -- which hold some $300 billion in assets -- could be forced to sell en masse.
+The SIVs are the focus of an effort by major banks to raise a rescue fund that could reach up to $100 billion. The intent is to calm markets by buying good, highly rated securities from the SIVs. But the fund is still weeks away from coming into operation. And the deterioration of even the most highly rated securities will make it increasingly difficult to differentiate between good and bad investments.
+The large Wall Street firms weren't alone in believing triple-A- rated debt securities were safe. In the last few years, bond insurers such as MBIA Inc. and Ambac Financial Group Inc., as well as financial guaranty units of American International Group Inc., PMI Group Inc. and ACA Capital Holdings, aggressively wrote insurance on super-senior tranches of CDOs that were backed mainly by subprime mortgages. These companies effectively agreed to bear the risk of losses on these securities.
+Shares of Ambac and PMI yesterday fell 19.7% and 11%, respectively, and along with MBIA hit new 52-week lows, on growing investor worry that they may need to hold more capital against the risk they are insuring and could be hit with sizable claims down the road.
+Over the past two weeks, some of the insurers posted significant net losses for the third quarter because of adjustments on credit derivatives they used to provide insurance on the bonds. The bond insurers have said, however, that they don't expect actual losses from the CDO tranches they have insured.
+The Federal Reserve has said its recent rate cuts were designed in part to forestall damage to the economy from "disruptions in financial markets." Officials have acknowledged that credit-market conditions aren't back to normal but believe they are improving.
+Some gauges of financial health are sending mixed signals. One measure is the difference between the expected federal-funds rate, charged on overnight loans between banks, and longer-term interbank rates, such as for three months at the London interbank offered rate, or Libor. This gap has been narrowing. That signals less hesitation by banks to lend for more than a few days. Still, traders say hesitation has not disappeared, one sign of this being a low volume of lending for three-month terms or longer.
+The Fed's task of keeping the federal-funds rate close to its target has been complicated by Europe-based banks, which have been driving the rate upward by borrowing heavily during the early part of the U.S. trading session -- a sign the banks are facing difficulty borrowing elsewhere. To keep the rate down, the Fed must pump money into the market. Yesterday, for example, the Fed lent $41 billion to money- market dealers, the largest amount since the credit crisis developed in early August. That amount, however, was roughly equal to the amount of short-term loans coming due, and was thus not seen as a response to new strains in the market.
+When the Fed on Wednesday cut its target for the federal funds rate to 4.5%, it said it saw risks to growth roughly in balance with risks of higher inflation. That statement -implying the Fed didn't expect to cut rates again -- prompted investors to lower their odds of additional rate cuts. But Thursday, odds of another rate cut shot up again in the wake of the stock market's fall. Futures markets now perceive a December rate cut as slightly more likely than no change.
+A choppy stock market alone is not likely to be enough to get the Fed to ease again. But the Fed would have to take into account the possibility the market is signaling economic weakness to come.
+One reason the markets are jumpy is that there's no sign of a turnaround in the U.S. housing market, which has been weakening for some two years after a frenetic boom in
+the first half of this decade that more than doubled prices in some areas. Foreclosed homes, which lenders try to dump quickly, are adding to what was already a glut of
+houses and condos on the market in much of the country.
+http://search.proquest.com.turing.library.northwestern.edu/docview/398988423/1383F95EF2751C24533/3?accountid=14026
+2/3
+5/26/2017
+Fresh Credit Worries Grip Markets; Banks' Woes Spur Fear Of Reluctance to Lend; Stocks React Sharply - ProQuest
+The number of detached single-family homes on the market is enough to last 10.2 months at the current sluggish sales rate, the highest since February 1988, according to the National Association of Realtors.
+In Florida's Miami-Dade County, the supply of condos is enough to last about 57 months at the current sales rate. An ad on Craigslist.org touts a beige stucco home in Las Vegas with the headline: "Owner desperate -- need to sell asap! easy terms."
+Some economists think home prices won't start to recover before 2009 or 2010. House prices, as measured by the S&P/Case-Shiller national index, are likely to decline about 7% this year and a similar amount in 2008, contends Jan Hatzius, chief U.S. economist at Goldman Sachs in New York. He expects a further small decline in 2009.
+James R. Hagerty, Jon E. Hilsenrath and Greg Ip contributed to this article.
+(c) 2007 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+More like this
+n
+Search ProQuest... z	;
+W Cite
+9 Email
+P Save
+LJ Add to Selected items
+Related items
+Search with indexing terms
+Subject
+U Industrywide conditions
+U Economic impact
+U Consumer credit
+LJ Securities markets
+Search
+Ebook Central e-books
+2
+The Market Revolution and its Limits : A Price for Everything (1)
+Infectious Greed : How Deceit and Risk Corrupted the Financial Markets
+3.	..i-™.;. Politics and Markets in the Wake of the Asian Crisis (1)
+http://search.proquest.com.turing.library.northwestern.edu/docview/398988423/1383F95EF2751C24533/3?accountid=14026
+3/3
