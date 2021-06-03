@@ -1,0 +1,60 @@
+﻿5/30/2017 MARKET TUMULT: FROM A SLIGHT GAIN, TO DOWN 998.50 POINTS, TO DOWN 347.80; Dow Takes a Harrowing 1,010.14-PointTrip; Biggest Poi...
+More like this + MARKET TUMULT: FROM A SLIGHT GAIN, TO DOWN 998.50 POINTS, TO DOWN 347.80; Dow Takes a Harrowing 1,010.14-Point Trip; Biggest Point Fall, Before a Snapback; Glitch Makes Thing Worse
+Lauricella, Tom; McKay, Peter Wall Street Journal (Online); New York, N.Y. [New York, N.Y]07 May 2010: n/a.
+THE WALL STREET JOURNAL
+Full text Abstract/Details
+Abstract Translate
+The euro had tumbled to a new 14-month low and credit markets were showing signs of strain in Europe and the U.S. Throughout the day, markets around the globe posted big declines as investors reacted with disappointment to the failure of the European Central Bank to signal any heightened concern about the spiraling Greek debt crisis. After the gyrations, President Barack Obama was briefed by Treasury Secretary Timothy Geithner and National Economic Council Director Lawrence Summers on the situation in U.S. financial markets and the latest moves in Europe to cope with the debt crisis.
+Full Text Translate
+A bad day in the financial markets was made worse by an apparent trading glitch, leaving traders and investors nervous and scratching their heads over how a mistake could send the Dow Jones Industrial Average into a 1,000-point tailspin.
+At its afternoon low, the Dow had plummeted 998.50 points, its biggest intraday point drop ever. The swing from its intraday high was 1,010.14 points.
+The Dow eventually rebounded to close down 347.80 points, or 3.2%, at 10520.32, its worst percentage decline since April 2009. Stocks from Dow components Procter & Gamble and 3M suffered precipitous declines. At one point shares of P&G tumbled 37%.
+The markets were already on edge before the midafternoon collapse as traders watched televised scenes of rioting in Athens following the Greek government's approval of its portion of the European Union and International Monetary Fund bailout. The euro had tumbled to a new 14-month low and credit markets were showing signs of strain in Europe and the U.S.
+Throughout the day, markets around the globe posted big declines as investors reacted with disappointment to the failure of the European Central Bank to signal any heightened concern about the spiraling Greek debt crisis.
+Standard & Poor's 500-stock index dropped 3.2% to 1128.15 Bond, commodity and currency markets were all roiled as investors fled from risky assets toward the safety of gold and Treasurys.
+The Chicago Board Options Exchange Volatility index, or VIX, which tracks volatility in stock-index options, at one point soared 60% to nearly 40 and ended the day up nearly 32%.
+Asian markets immediately opened down Friday. Japan's Nikkei fell more than 4% and Australia's S&P/ASX 200 fell more than 3%.
+After the gyrations, President Barack Obama was briefed by Treasury Secretary Timothy Geithner and National Economic Council Director Lawrence Summers on the situation in U.S. financial markets and the latest moves in Europe to cope with the debt crisis. An administration official said they discussed market structure and the government agencies looking into the crisis and its potential impact on the U.S. economy.
+Traders were stunned by the sudden sharp moves. Regulators and exchanges announced probes into what they called unusual market activity.
+"It was absolute chaos," said Steven Starker, co-founder of brokerage firm BTIG LLC, who said the trading in the volatile half-hour reminded him of the selloff during the market crash in October 1987.
+"You sit there and stare at the screen and don't quite know what to make of it," said Mike Ryan, the chief investment officer for UBS Wealth Management Americas.
+Representatives of major U.S. exchanges and the Securities and Exchange Commission convened an emergency conference call late Thursday to examine potentially erroneous trades in multiple stocks. The trades took place between 2:40 p.m. and 3:00 p.m. EDT, according to a notice from Nasdaq OMX Group Inc. Officials late in the day said any trades that were 60% away from the market price at 2:40 p.m. would be canceled.
+About 300 stocks are expected to see canceled trades, but it is unknown how many trades would be broken. No exchange admitted on the conference call that it had seen trades mis-keyed into their systems, one exchange official said.
+Drawing particular attention were stocks that posted far bigger losses than the broad market. At least eight in the Standard & Poor's 1500-stock index fell to a price of one cent per share--essentially a 100% decline. Among them were Boston Beer, Exelon and Accenture.
+With Accenture, for example, 20,365 shares changed hands at around $39.98 during the minute of 2:46 p.m., then another 68,516 shares were traded at $38 per share during the minute of 2:47. But then in the 2:49 p.m. minute, 66,277 shares traded at one cent. By 2:50 p.m., the stock was back up to $39.51.
+Several more stocks dropped by more than 60%. Among the stocks in the S&P 1500, 15 stocks fell more than 50% from their day's high to their low and 61 stocks fell more
+than 20%.
+http://search.proquest.com.turing.library.northwestern.edu/docview/238026113/13844ABB7F26B33AE83/3?accountid=14026
+1/2
+5/30/2017 MARKET TUMULT: FROM A SLIGHT GAIN, TO DOWN 998.50 POINTS, TO DOWN 347.80; Dow Takes a Harrowing 1,010.14-PointTrip; Biggest Poi...
+Traders theorized that an initial trading error triggered a piling-on effect from computerized trading programs designed to sell when the market moves lower. At the same time, pre-set orders form individual traders and investors to sell on declines during market downturns were likely triggered.
+The volatile moves in many stocks likely triggered a wave of additional trades as hedges such as limit orders and options strategies kicked in. That could have caused the market to plunge further.
+Among the big losers in the selloff were likely to be investors who had put limit orders on stocks they held. If an investor had placed a limit order with his broker to sell his P&G shares if the price fell to $50, then that sell order would have been triggered as the stock tumbled to its low of $39.97. The investor would have lost money on that sale and then lost again when the stock rebounded back to close at $60.76. Worse, if the investor had held the stock for a long time and had a gain, he would be hit with a tax bill on his profits.
+Accelerating the declines, high-frequency hedge funds, which use computers to trade at super high speed, appeared to pull back from the market as prices collapsed. These hedge funds have grown to account for a significant amount of trading volume, and their absence likely created a void into which prices fell.
+The move highlighted how fragile U.S. markets have become and how the various fragmented markets have deficiencies in the way they buffer volatility.
+"This highlights the risks of electronic trading," says Louis Pastina, executive vice president and head of operations at NYSE Euronext's New York Stock Exchange. "When you have low volatility, electronic trading works very well. But there are risks. It highlights the need for human-based intervention."
+Before the focus moved to the U.S. stock market, all eyes were on Europe, where investors bailed out of stocks, bonds and the euro.
+Even as the Greek parliament approved the 110 billion euro ($145 billion) package, the common currency was falling to $1.2629, its lowest level since last March against the U.S. dollar.
+European bond markets also reacted with big price declines on heavily indebted countries. The yield on Portuguese 10-year notes jumped to a new crisis high of 6.33%, with the spread over German 10-year notes rising by 3.5 percentage points.
+In the U.S., credit markets were also weak early in day Thursday. U.S. corporate bonds also declined sharply, though in a more orderly fashion than the stock market.
+Investment-grade bonds at one point during the day were suffering a deeper selloff than at the worst of the Lehman Brothers crisis, according to Tim Backshall, chief strategist at Credit Derivatives Research. High-yield bonds had their worst day since 2007.
+But the selloff in credit has been building slowly for days, suggesting to some that the market turmoil may not be over. At the very least, there is a growing chance that a record rally in corporate debt that began at the height of the credit crisis in 2008 may be entering a new, uncertain phase.
+Credit-market indicators that reflect jitters about short-term lending to banks have been creeping higher for several days. The London interbank offered rate, at which banks lend money to each other, rose on Thursday to 0.37%, its highest level since last August, a sign that short-term cash is becoming scarcer for banks. Market observers said banks in Europe were starting to have a hard time selling commercial paper and other assets in the market to meet funding needs, a chilling callback to the credit crisis in the U.S.
+Libor and other fear indicators are nowhere near as high as at the height of that crisis, when Libor soared to more than 5%, but were wide enough to start to draw attention.
+Investors fled to the safety of U.S. Treasury debt. The 10-year note's yield fell to 3.4%, the lowest level of the year.
+Dan Fitzpatrick Neil Shah, Donna Kardos Yesalavich, Kristina Peterson and Aaron Lucchetti contributed to this article.
+Date Close Points/% 9/29/2008 9/17/2001 8920.70 -684.81/-7.13% 12/1/2008 8149.09 -679.95/-7.70% 10/9/2008 8579.19 -678.91/-7.33
+Write to Tom Lauricella at tom.lauricella@wsj.com and Peter A. McKay at peter.mckay@wsj.com
+Credit: By Tom Lauricella And Peter A. McKay
+Word count: 1375
+(c) 2010 Dow Jones & Company, Inc. Reproduced with permission of copyright owner. Further reproduction or distribution is prohibited without permission.
+More like this
+Search ProQuest...				;
+W Cite	9 Email	P Save		
+U Add to Selected items
+Related items
+Search with indexing terms
+Subject
+U Stock exchanges
+http://search.proquest.com.turing.library.northwestern.edu/docview/238026113/13844ABB7F26B33AE83/3?accountid=14026
+2/2

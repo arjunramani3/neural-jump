@@ -1,0 +1,120 @@
+﻿5/26/2017
+Stock Rout Puts S&P in a Bear Market --- Industrials Sink 436.37 as Nasdaq Falls Below 2000 - ProQuest
+More like this + Stock Rout Puts S&P in a Bear Market --- Industrials Sink 436.37 as Nasdaq Falls Below 2000
+By Kate Kelly and Greg Zuckerman. Wall Street Journal, Eastern edition; New York, N.Y. [New York, N.Y]13 Mar 2001: C.1.
+THE WALL STREET JOURNAL
+Full text Abstract/Details
+Abstract Translate
+Margin calls "were in the thousands [yesterday], and there will be more" today, said Mike Dunn, a spokesman for online broker Datek Online Holdings. Mr. Dunn noted that margin calls increase whenever there is "a big move" downward in the Nasdaq. Total margin debt in U.S. stock markets fell to $208.7 billion in January, down from a high of nearly $300 billion a year ago.
+Steady heads on Wall Street said investors should keep a few things in mind amid such stock pullbacks. For example, while Nasdaq's 62% decline from the high is startling and represents its biggest decline from a high since the grinding 60% drop in the early 1970s, it comes after an equally unbelievable rally. In an advance that spanned the full-year 1999 through the record high in March 2000, the Nasdaq composite rallied 130%. Now, the market is right back to where it was before that rally began.
+Nasdaq denied that the problem was related to the introduction of decimal-based quotations in 15 securities, or price quotes in dollars and cents, rather than in fractions. Spokesman Scott Peterson said the market anticipated potential problems with bandwidth and had taken steps in recent months toward "enhancing the capacity of its infrastructure and its network." Mr. Peterson said that Monday, the stock market will introduce MultiSelectNet, a souped-up version of the SelectNet order-matching system that should allow for a doubling capacity. Other technical improvements are to follow, he said.
+Full Text Translate
+In one of the stock market's worst across-the-board declines in years, the Standard & Poor's 500-stock index finally succumbed to "bear market" territory with all the subtlety of a swinging paw.
+A series of events -- from the overnight drop in Tokyo stocks to the latest warnings from high-technology companies -- combined to set the market on edge. Selling accelerated during the day, partly because more investors received "margin calls," or demands that investors who bought stock with borrowed funds come up with additional cash or sell shares. Such selling could remain a problem.
+By the 4 p.m. regular-hours close, the S&P, after many recent days in which it just missed qualifying for bear-market status, plunged along with other major U.S. stock indexes to finish 23% off its record. The 4.3%, or 53.26-point, loss to 1180.16 put the S&P at its lowest close since December 1998.
+It is the broad-market barometer's first bear market -- under the rule-of-thumb definition of a 20%-or-more drop from a closing high -- since 1987.
+In fact, the S&P, the Nasdaq Composite Index and several other indexes are all in bear markets, as investors react to a barrage of negative earnings pronouncements from widely watched U.S. technology companies. The Dow Jones Industrial Average and its lineup, filled mostly with Old Economy stocks, so far has avoided the distinction (down 13% from the high).
+The S&P's capitulation was one of several developments in a miserable Monday for investors:
+-- Before U.S. trading opened, Tokyo stocks tumbled yet again amid Japan's economic problems, spreading fears of ripple effects globally. The Nikkei 225-stock index fell 3.6% to 12171.37, the lowest close for that once-invincible index since April 1985.
+-- The Nasdaq composite, which stood proudly above 5000 a year ago March 10, fell below the 2000 mark for the first time since December 1998. At its close of 1923.38, down 6.3%, or 129.40 points, it is 62% from that high.
+-- In a piece of unfortunate timing, Nasdaq's conversion to "decimal"-based stock pricing went into effect on a pilot basis yesterday. But for the second straight session, there were technical failures in the market's trading systems.
+-- Each and every one of the 30 stocks in the Dow industrials declined for the day, something that doesn't often happen even on big down days. The index, while holding up better than the Nasdaq and S&P, set some of its own dubious history: the fifth-worst point loss ever, with its 436.37-point loss to 10208.25, its lowest close in nearly five months. (Still, point losses don't mean quite as much today as they did when the index was trading at lower levels, and thus the 4.1% drop wasn't historic in itself.)
+Treasury-bond prices rose as the stock market was sliding but didn't rally hard, as can happen when investors are seeking safety from a stock rout. Bond traders said hopes for a Federal Reserve interest-rate cut are factored into Treasury prices, and thus there isn't a lot of room to rally until after any Fed move.
+Stock traders and investors were left to wonder if this, truly, is about the worst of the stock market's pullback from the early-2000 euphoric highs, or whether more declines are in the offing.
+"There's so much bad [earnings] news that any trading rally is going to be diffused in a hurry," said Michael Palazzi, head trader for CIBC World Markets in New York. The market, he added, "desperately wants good news."
+Ned Collins, head trader for Daiwa Securities America, said, "We're a heck of a lot nearer a bottom than we are a top."
+http://search.proquest.com.turing.library.northwestern.edu/docview/398799136/1383F49715155F61809/3?accountid=14026
+1/4
+5/26/2017
+Stock Rout Puts S&P in a Bear Market --- Industrials Sink 436.37 as Nasdaq Falls Below 2000 - ProQuest
+It certainly wasn't just a technology rout. Shares of brokerage houses, for example, bore the brunt of investor expectations that Wall Street's profits will suffer if the stock market doesn't turn around. Morgan Stanley Dean Witter, acting like a punished dot-com stock, fell 8.6%, or $5.26 apiece, to a 52-week low of $56. Merrill Lynch fell 9% and Goldman Sachs Group slid 5%.
+The market's drop boosted the number of margin calls, said brokerage-house executives. While overall margin debt is down from what it was at the peak a year ago, declines such as yesterday's have a ripple impact on investors who are leveraged.
+Margin calls "were in the thousands [yesterday], and there will be more" today, said Mike Dunn, a spokesman for online broker Datek Online Holdings. Mr. Dunn noted that margin calls increase whenever there is "a big move" downward in the Nasdaq. Total margin debt in U.S. stock markets fell to $208.7 billion in January, down from a high of nearly $300 billion a year ago.
+Steady heads on Wall Street said investors should keep a few things in mind amid such stock pullbacks. For example, while Nasdaq's 62% decline from the high is startling and represents its biggest decline from a high since the grinding 60% drop in the early 1970s, it comes after an equally unbelievable rally. In an advance that spanned the full-year 1999 through the record high in March 2000, the Nasdaq composite rallied 130%. Now, the market is right back to where it was before that rally began.
+The blue-chip technology issues that contributed to the rout included Cisco Systems, which tumbled 8.8% to $18.81, a far cry from its 52-week high of $82. Two giant technology components of both the Nasdaq composite and the Dow industrials, Microsoft and Intel, fell 8.4% and 5.7%, respectively.
+Nasdaq is the main home for new stock issues, and the technology-sector carnage is bad news for initial public offerings of stock. Nine planned IPOs have been withdrawn or postponed since Friday, according to CommScan, bringing this year's total to 62 (and 35 of those are technology concerns). The list of canceled IPOs ranges in sector from technology companies such as software maker Trinagy Inc. to health-sector inhabitants such as Iasis Healthcare Corp., an owner and operator of hospitals.
+Even the IPOs that have managed to come out have had a hard time. Witness Friday's public offering of the Internet-support company Loudcloud Inc., which was priced at a paltry $6. Despite the low per-share cost -- a figure that was ultimately downgraded twice -- the company managed only the tiniest of price "pops" that day, closing trading at $6.16.
+"I was very disappointed," said Billy Ching, a corporate lawyer and active individual investor who bought 450 shares of Loudcloud at the IPO price, only to see the stock hit essentially flat lines on Friday. "I think they priced it so low that they thought it had to go up, but it didn't."
+Even UTI Corp., a Collegeville, Pa., company that is no Internet newcomer -- it is a medical-device designer that is 54 years old -- had to withdraw a planned IPO. "Considering what's happened in the market today, it was probably a very good decision," said Drew Freed, chief executive and president of UTI.
+Not helping the mood on Wall Street was a data-distribution glitch on Nasdaq, traced to the market's Rockville, Md., computer center, which sidelined the market's two most important trading platforms (SelectNet and SOES) shortly after 10 a.m. EST for 17 minutes and 23 minutes, respectively.
+A trading platform that accesses other national markets also was affected, in that case for 48 minutes.
+Some Nasdaq traders, finding themselves at the second standstill in as many days, were less than pleased. Mr. Palazzi at CIBC World Markets described his staff as "very irritated." He said, "It does not appear that there's enough bandwidth to carry all the messages that decimalization takes with it."
+Nasdaq denied that the problem was related to the introduction of decimal-based quotations in 15 securities, or price quotes in dollars and cents, rather than in fractions. Spokesman Scott Peterson said the market anticipated potential problems with bandwidth and had taken steps in recent months toward "enhancing the capacity of its infrastructure and its network." Mr. Peterson said that Monday, the stock market will introduce MultiSelectNet, a souped-up version of the SelectNet order-matching system that should allow for a doubling capacity. Other technical improvements are to follow, he said.
+He said Nasdaq "is investigating the cause" of the Rockville malfunction.
+A final market indicator for hard-core investors to chew on as trading resumes today: The bear-market indicator known as the "trin" was 3.42, the largest figure since the
+4.31	registered April 14, 2000, and the second largest since the beginning of 2000. Developed by analyst Robert Arms, the trin is the ratio of advancing/declining stock issues, divided by the ratio of advancing/declining volume. Any measure over 1.0 is considered bearish.
+The trin has been in bearish territory on 29 of the 48 trading days this year, or 60% of the time.
+Outside the U.S., stocks fell in dollar terms. The Dow Jones World Stock Index, excluding U.S. stocks, fell 2.72%, or 3.99 points, to 142.60.
+In major U.S. stock action:
+Stocks tumbled. On the New York Stock Exchange, where nearly 1.22 billion shares traded, 685 stocks rose and 2,423 declined.
+Bonds rose. The benchmark 10-year Treasury note was up 12/32 point, or $3.75 per $1,000 invested, to push down the yield to 4.883%. The 30-year bond was up 12/32 to yield 5.297%.
+The dollar rose. In late New York trading, the dollar traded at 92.90 cents to the euro and 120.39 yen, strengthening from 93.26 cents and 119.55 yen.
+Ruth Simon contributed to this article.
+Where the Major Indexes Stand
+http://search.proquest.com.turing.library.northwestern.edu/docview/398799136/1383F49715155F61809/3?accountid=14026
+2/4
+5/26/2017
+Stock Rout Puts S&P in a Bear Market --- Industrials Sink 436.37 as Nasdaq Falls Below 2000 - ProQuest
+% Change Closing level
+from needed for
+Index its high 'bear market'*
+Dow Jones Ind. Avg -12.9% 9378.38
+Nasdaq Composite -61.9 In bear market**
+S&P 500 -22.7 In bear market
+Russell 2000 -24.4 In bear market
+NYSE Composite -10.6 542.06
+Wilshire 5000 -26.5 In bear market
+* Based on rule-of-thumb definitions (20% changes) of bull and bear markets.
+**Because the composite briefly pulled out of its bear market in both
+May 2000 and January 2001, the current bear market technically began on
+Jan. 24, 2001 (at 2859.15) and encompasses a 33% decline.
+Source: WSJ Market Data Group; Ned Davis Research
+In Perspective
+Yesterday's point drop in the Dow Jones Industrial Average, while No.
+5 on the all-time point decline list, was relatively tame in percentage terms compared with past years-such as 1987-when point moves had more of an impact.
+PERCENT POINT
+DATE DECLINE DROP
+Oct. 19, 1987 -22.6% 508.00
+Oct. 27, 1997 -7.2% 554.26
+Yesterday -4.1% 436.37
+Source: WSJ Market Data Group
+Dragging Down Nasdaq
+The Nasdaq stocks with the biggest drops in market value since the
+March 10, 2000, all-time high for the Nasdaq Composite Index
+CURRENT MARKET
+COMPANY PRICE VALUE CHANGE
+http://search.proquest.com.turing.library.northwestern.edu/docview/398799136/1383F49715155F61809/3?accountid=14026
+3/4
+5/26/2017
+Stock Rout Puts S&P in a Bear Market --- Industrials Sink 436.37 as Nasdaq Falls Below 2000 - ProQuest
+Cisco $18.81 -$352.5 billion
+Microsoft 51.94 -259.2
+Intel 27.75 -215.7
+Oracle 15.19 -143.9
+Ericsson 6.28 -136.9
+Source: Birinyi Associates
+Credit: Staff Reporters of The Wall Street Journal
+Word count: 1794
+Copyright Dow Jones & Company Inc Mar 13, 2001
+More like this
+n
+Search ProQuest...
+;
+W Cite
+9 Email
+P Save
+1—1 Add to Selected items
+Related items
+Search with indexing terms
+Subject
+LJ Dow Jones averages
+LJ Stock prices
+U Securities markets
+LJ Daily markets (wsj)
+Search
+Ebook Central e-books
+Britannica Concise Encyclopedia (1)
+Provided by Northwestern University Library *** Get online help from Northwestern University Library
+Contact Us Terms and Conditions Accessibility Privacy Policy Cookie Policy Credits Copyright © 2017 ProQuest LLC.
+http://search.proquest.com.turing.library.northwestern.edu/docview/398799136/1383F49715155F61809/3?accountid=14026
+4/4

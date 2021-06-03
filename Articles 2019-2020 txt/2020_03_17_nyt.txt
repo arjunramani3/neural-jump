@@ -1,0 +1,145 @@
+﻿3/17/2020
+Stocks Rebound From Monday’s Collapse: Live Markets Updates - The New York Times
+JJork SJimejSi https://nyti.ms/2QnqAnJ
+LIVE UPDATES Updated 2 hours ago
+Stocks Rebound From Monday’s Collapse:
+Live Markets Updates
+RIGHT NOW Lawmakers and airlines started to negotiate a bailout for the
+industry.
+Here’s what you need to know:
+•	Wall Street rallies as Washington details spending plans.
+•	Airlines and lawmakers discuss terms of a bailout.
+•	Mnuchin warns that unemployment could approach 20 percent without government help.
+•	The White House is seeking ways to use smartphone location data in its virus response.
+•	Autoworkers demand that the Big 3 shut down, while European factories are idled.
+Wall Street rallies as Washington details spending plans.
+After suffering their worst day in decades, stocks bounced back on Tuesday as Washington policymakers talked up plans to try to cushion
+an economy careening toward a deep recession driven by the coronavirus outbreak.
+The S&P 500 rose 6 percent, rebounding from a 12 percent collapse on Monday, which was its steepest drop since 1987.
+Early trading was unsteady, and stocks briefly fell into negative territory. They then surged after the Federal Reserve said it would use its
+emergency lending powers to try to keep credit flowing to households and businesses in the United States by buying up commercial paper.
+Shares in Europe also recovered from early losses to end higher.
+The market for commercial paper is part of the normally invisible plumbing of the American financial system, but it had become frozen in
+recent days. Companies and financial entities borrow billions by issuing commercial paper to fund their operations and manage their daily
+cash flows.
+On Tuesday evening, the Fed announced yet another program intended to spur lending. The new Primary Dealers Credit Facility is similar
+to one the central bank unveiled in 2008 to help banks — known as primary dealers — that are conduits between the Fed, Treasury
+Department and broader financial system.
+Still, even if the financial system functions well, a daunting economic challenge continues to face the American economy, as the spread of
+the coronavirus forces federal, state and local officials to take simultaneous actions that will cut consumer spending. Such spending
+accounts for roughly 70 percent of American gross domestic product.
+On Tuesday, economists from S&P Global Ratings wrote that they expected the United States’ economy to shrink by 1 percent in the first
+quarter, and 6 percent in the second quarter, putting the country in recession. That 6 percent drop would be the sharpest falloff in economic
+activity since 2008.
+Even as stocks gained, the trading on Tuesday reflected some of these concerns. The best performing parts of the market were
+traditionally defensive areas, such as the utilities and consumer staples, where investors typically hide out during trying economic times.
+Oil prices also fell.
+https://www.nytimes.com/2020/03/17/business/stock-market-today.html?action=click&module=Spotlight&pgtype=Homepage
+1/4
+3/17/2020
+Stocks Rebound From Monday’s Collapse: Live Markets Updates - The New York Times
+Wall Street rebounded on Tuesday as policymakers in Washington discussed plans to
+cushion an economy. Johannes Eisele/Agence France-Presse — Getty Images
+To address such expectations for deep economic weakness, Treasury Secretary Steven Mnuchin was pitching Republican senators for
+additional fiscal firepower on Tuesday, with the Trump administration preparing to ask for about $850 billion in additional stimulus to
+support the economy.
+“This is the type of news the market wants,” Ilya Feygin, managing director at the institutional brokerage firm WallachBeth, said in an
+email. “Aid to households and businesses and attacking the virus directly, not monetary gimmicks.”
+Airlines and lawmakers discuss terms of a bailout.
+Congressional leaders and airlines on Tuesday started to negotiate a bailout for the industry, which has been hobbled by the coronavirus
+outbreak, a day after an airline association proposed more than $50 billion in federal grants and loans.
+Get an informed guide to the global outbreak with our daily coronavirus newsletter.
+©
+The Trump administration has said that it wants to help airlines, and intends to include aid for them in a broader $850 billion package of
+economic stimulus measures it is proposing as a response to the outbreak. Separately, Democratic leaders in the House spoke with airline
+chief executives by phone Tuesday afternoon after hearing from Treasury Secretary Steven Mnuchin, who has been a central point of
+contact within the administration.
+In Tuesday’s call, the airline executives and members of Congress specifically discussed limiting executive bonuses and shares buybacks
+and protecting employees from layoffs or furloughs. They also discussed protecting collective bargaining and reversing any union
+concessions when the industry recovers. The airlines indicated that furloughs would be a last resort, according to a person familiar with
+the call, but unauthorized to discuss it publicly.
+Airlines for America, an industry association, asked the federal government on Monday for a $58 billion bailout, equally split between
+grants and loans and loan guarantees, for passenger and cargo airlines. It is also seeking help in the form of a temporary tax break.
+“Carriers are burning through cash as cancellations far outpace new bookings,” Katherine Estep, a spokeswoman for Airlines for America,
+said in a statement.
+In a sign of the stress on the industry, Moody’s on Tuesday downgraded the debt of Southwest Airlines, which borrowed $1 billion last
+week, and put it on watch for further downgrades. Moody’s said the carrier, the most consistently profitable U.S. airline, “remains
+vulnerable to the outbreak continuing to spread” and that the outbreak could depress travel demand through “at least June.”
+Mnuchin warns that unemployment could approach 20 percent without government help.
+Treasury Secretary Steven Mnuchin warned Republican senators on Tuesday that the unemployment rate in the United States could
+approach 20 percent without the intervention of robust economic stimulus measures, according to people familiar with the discussion.
+The comments came while Mr. Mnuchin was making the White House’s pitch to lawmakers to back a $1 trillion fiscal stimulus package that
+would include $250 billion of checks being sent to Americans suffering from the fallout of the coronavirus epidemic.
+https://www.nytimes.com/2020/03/17/business/stock-market-today.html?action=click&module=Spotlight&pgtype=Homepage
+2/4
+3/17/2020
+Stocks Rebound From Monday’s Collapse: Live Markets Updates - The New York Times
+Mr. Mnuchin said that the jobless rate could go up by 5,10 or 15 percentage points if there is no intervention, according to two people
+familiar with his comments. The jobless rate currently sits at 3.5 percent.
+Monica Crowley, a spokeswoman for Mr. Mnuchin, said that the Treasury secretary’s comments were not a projection and that because
+Congress was taking additional action, he did not believe the unemployment rate would reach 20 percent.
+“During the meeting with Senate Republicans today, Secretary Mnuchin used several mathematical examples for illustrative purposes, but
+he never implied this would be the case,” Ms. Crowley said in a statement.
+Since World War II, the United States has never seen unemployment rise above 11 percent, the level it nearly reached in the recession of
+the early 1980s. It reached 10 percent, briefly, during the 2008 financial crisis.
+The White House is seeking ways to use smartphone location data in its virus response.
+The Trump administration has spoken with large technology companies about how their access to geolocation data from smartphones can
+aid in the response to the coronavirus pandemic.
+At a recent meeting, a group of tech companies discussed the use of anonymous, aggregated geolocation data to respond to the spread of
+the virus with the White House and other administration officials, according to two people with knowledge of the matter. They also
+discussed how that would intersect with user privacy, the people said.
+The Centers for Disease Control asked during the meeting about the prospect of using the data to track demand for hospitals around the
+country, which are expected to be deluged by patients, one of the people said. The conversations were first reported by The Washington
+Post.
+Facebook has also discussed with the U.S. government the maps it produces to track disasters using satellite and census data, said a
+company spokesman, Andy Stone. It is also working to provide nonprofit groups — which can work with local, state and federal authorities
+— with a second set of mapping tools that use smartphone location data that Facebook users can choose to share.
+The possible use of geolocation data raises questions about user privacy, especially as policymakers are increasingly asking about the
+power of major tech companies like Amazon, Facebook and Google.
+But analysis of aggregated data would be different from aggressive measures to track individual patients using their phones. In Israel, for
+example, the government has moved to use cellphone data to retrace the steps of virus patients.
+Autoworkers demand that the Big 3 shut down, while European factories are idled.
+Pressure mounted Tuesday for General Motors, Ford Motor and Fiat Chrysler to close their factories, while Europe’s auto manufacturing
+was brought virtually at a standstill after Daimler, Ford Motor and Nissan joined Volkswagen and most other major carmakers in shutting
+down.
+The United Automobile Workers union has called on the three Detroit carmakers to shut down manufacturing plants across the United
+States for two weeks to prevent the spread of the coronavirus, a request the companies have so far denied.
+In an email sent to U.A.W. members on Tuesday, the union’s president, Rory Gamble, said he had requested the shutdown in a meeting on
+Sunday with the chief executives of General Motors, Ford Motor, and Fiat Chrysler, based on the guidelines from the Centers for Disease
+Control and Prevention and the World Health Organization.
+“Your U.A.W. leadership feels very strongly, and argued very strongly, that this is the most responsible course of action,” Mr. Gamble said
+in the email.
+The automakers have responded by taking actions to protect workers, such as extending down time between shifts to allow for sanitizing
+of equipment and common areas in the plants.
+Jim Cain, a G.M. spokesman, said the company was trying to keep factory workers safe while being mindful of the potential economic
+impact of a broad shutdown and of the hardship employees could face if they were no longer earning paychecks.
+In Europe, Ford said the suspension would take effect Thursday and last “for a number of weeks” depending on the spread of the
+pandemic, as well as disruptions to supply chains, government restrictions on travel, and declines in sales.
+Catch up: Here’s what else is happening.
+• Facebook announced a $100 million grant program for small businesses around the world that are affected by the coronavirus outbreak.
+The company said in a blog post that it would begin accepting applications in the coming weeks.
+https://www.nytimes.com/2020/03/17/business/stock-market-today.html?action=click&module=Spotlight&pgtype=Homepage
+3/4
+3/17/2020
+Stocks Rebound From Monday’s Collapse: Live Markets Updates - The New York Times
+• Macy’s said on Tuesday that it would close all its stores, including Bloomingdale’s, through March 31. The company added that it would
+provide benefits and compensation to its work force.
+Reporting was contributed by David McCabe, Cecilia Kang, Alan Rappeport, Nicholas Fandos, Alexandra Stevenson, Julie Creswell, Neal Boudette, Jack Ewing, Jeanna Smialek,
+Ben Casselman, Matthew Goldstein, Jim Tankersley, Niraj Chokshi, Sapna Maheshwari, Liz Alderman, Michael Corkery, Jack Nicas, Daniel Victor, Kevin Granville and Carlos
+Tejada.
+The Coronavirus Outbreak
+Wondering About Social Distancing?
+Updated March 17, 2020
+•	What is social distancing?
+It means minimizing contact with people and maintaining a distance of at least
+six feet between you and others. Avoid public transportation, limit nonessential
+travel, work from home and skip gatherings. This strategy saved thousands of
+lives both during the Spanish flu pandemic of 1918 and in Mexico City during
+the 2009 flu pandemic.
+•	I'm young. Can I continue to socialize?
+Please don’t. There is no question that older people and those with underlying
+health conditions are most vulnerable to the virus, but young people are by no
+means immune. And there is a greater public health imperative. Even people
+READ MORE V
+https://www.nytimes.com/2020/03/17/business/stock-market-today.html?action=click&module=Spotlight&pgtype=Homepage
+4/4
