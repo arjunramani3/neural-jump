@@ -15,7 +15,7 @@ def import_article(fname1, english_words, stop_words, min_word_length, filter_st
     @param filter_stop_words (boolean): a flag indicating whether to filter stop_words 
     @returns article2 (list of strings): a tokenized list of words (string) 
     """
-    os.chdir('/Users/arjun/Documents/cs224n/deepjump/WSJ_txt')
+    os.chdir('/Users/ankushswarnakar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Stanford/2020-2021/neural-jump/WSJ_txt/')
 
     #print(fname1)
 
